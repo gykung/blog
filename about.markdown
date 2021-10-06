@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the blog of GY Kung. I'm interested in using data to improve oil and gas supply chain decisions.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
+This blog is built on [Jekyll][jekyll-organization]. Thanks to [Shahed Nasser][shahed] for her Jekyll how-to.
 [jekyll-organization]: https://github.com/jekyll
+[shahed]: https://blog.shahednasser.com/deploy-a-website-with-jekyll-and-github-pages/
