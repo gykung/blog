@@ -29,7 +29,8 @@ github_username:  gykung
 linkedin_username: gykung
 
 # Build settings
-theme: minima
+theme: cayman 
+# minima
 plugins:
   - jekyll-feed
 
