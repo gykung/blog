@@ -29,7 +29,7 @@ github_username:  gykung
 linkedin_username: gykung
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
