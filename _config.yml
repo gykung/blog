@@ -28,13 +28,10 @@ twitter_username: nuclearbulb
 github_username:  gykung
 linkedin_username: gykung
 
-
 # Build settings
-
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
-- jekyll-feed
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
 
 # Google Analytics
 google_analytics: G-JX5BJ6Z7X1
